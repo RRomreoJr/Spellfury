@@ -5,7 +5,7 @@ Skyrim mod to generate magicka on melee hits as well as other changes to make sp
 - Bethesda Ceation Kit
 - Papyrus
 
-**Idea**
+**Mod Page Links**
 
 Old Skyrim: https://www.nexusmods.com/skyrim/mods/101926
 
